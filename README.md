@@ -1,0 +1,2 @@
+# Pump-it-Up-Data-Mining-the-Water-Table-
+This is an intermediate-level practice competition. Predict one of these three classes based on a number of variables about what kind of pump is operating, when it was installed, and how it is managed. A smart understanding of which waterpoints will fail can improve maintenance operations and ensure that clean, potable water is available to communities across Tanzania.
